@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "create_expandedcopper_compat",
+    "version": "1.0.0",
+    "name": "Create ExpandedCopper Compatibility",
+    "description": "Adds compatibility between the Create and ExtendedCopper mods.",
+    "authors": [
+        "ChaoticByte"
+    ],
+    "contact": {
+        "sources": "https://github.com/ChaoticByte/create-expandedcopper-compat",
+        "issues": "https://github.com/ChaoticByte/create-expandedcopper-compat/issues"
+    },
+    "license": "MIT",
+    "environment": "*",
+    "depends": {
+        "minecraft": "1.20.1",
+        "fabric-resource-loader-v0": "*",
+        "create": "0.5.x",
+        "extendedcopper": "1.4.x"
+    }
+}
